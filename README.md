@@ -13,7 +13,7 @@ Crime changes based on season, population shifts, and policing strategies. Under
 
 <img width="1007" height="630" alt="image" src="https://github.com/user-attachments/assets/4df5c3a3-4152-46bf-bfa0-be0f7aeefda4" />
 
-
+Analysis/Result Explanation:
 
 
 
@@ -25,6 +25,8 @@ Why this matters:
 Law enforcement and city planners need to know what kinds of crimes are concentrated where. For example, theft may cluster in commercial zones, while vehicle theft may cluster near residential streets.
 
 <img width="995" height="626" alt="image" src="https://github.com/user-attachments/assets/6ce08034-31aa-4595-8c01-4d09d50d67e7" />
+
+Analysis/Result Explanation:
 
 
 
