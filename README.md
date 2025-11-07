@@ -1,3 +1,4 @@
 # MIST4610Project2
 
-**Team Members**
+Team Members
+krd90067@uga.edu
