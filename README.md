@@ -50,7 +50,14 @@ Importance: By comparing crime rates across neighborhoods, we can uncover patter
 
 # The manipulations applied to the data set as part of the analysis:
 Were there any manipulations or calculations that needed to be performed on the data, what were they, describe the purpose and how they were accomplished.   
-Date reported and Date Occured columns data types needed to be changed from Date & Time to just Date. We also didn't include occurances from 2025 because we were reporting on change by year and we didn't have data for the entire year of 2025.   
+Date reported and Date Occured columns data types needed to be changed from Date & Time to just Date. We also didn't include occurances from 2025 because we were reporting on change by year and we didn't have data for the entire year of 2025.  
+For question 1    
+Crime Count Formula: 1    
+For question 2   
+Crime counters for 2020 and 2024 visualization:    
+Calculated Field Formula for 2020: IF YEAR([DATE OCC]) = 2020 THEN 1 ELSE 0 END    
+Calculated Field Formula for 2024: IF YEAR([DATE OCC]) = 2024 THEN 1 ELSE 0 END    
+Calculated Field Formula for change 2020-2024: SUM([Crime 2024]) - SUM([Crime 2020])   
 
 # Analysis and Results:
 Analyze and visualize the results of your analysis and describe the implications of your analysis.   
@@ -66,7 +73,3 @@ Central LA, 77th Street, Pacific, and Southwest Areas which can be seen more cle
 <img width="1794" height="1512" alt="image" src="https://github.com/user-attachments/assets/a6a2a238-d83c-4d4c-8d09-2f08a61d2d5b" />
 The types of crime show that stolen vehicles and identity theft, burglary from a vehicle, and simple assualt are the most common.   
 <img width="833" height="479" alt="image" src="https://github.com/user-attachments/assets/e11fe70d-a253-4929-a396-134d3d4da716" />
-
-# Tableau Packaged Workbook
-Save or Export your project as a Tableau packaged workbook file and provide it as part of the github repository.   
-This group project is worth 12.5% of your final grade.
