@@ -11,7 +11,7 @@ Aiden Mintskovsky: [@aidenmint](https://github.com/aidenmint)
 # Describing your dataset and what data it contains:
 Group name: F25MIST4610_15058_Group1  
 Data set describes Crime Data from 2020 to present from the LAPD obtained from https://catalog.data.gov/dataset/crime-data-from-2020-to-present.  
-Dimesnsions: 1004991 rows, 28 columns  
+Dimesnsions: 1004991 rows, 28 columns, & 28 variables 
 Columns:    
   Division of Records Number: Official file number made up of a 2 digit year, area ID, and 5 digits. Data type: Number   
   Date reported: Data type: Date   
