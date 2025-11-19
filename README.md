@@ -79,12 +79,12 @@ The types of crime show that 77th Street and Central LA have the highest levels 
 <img width="2499" height="1419" alt="image" src="https://github.com/user-attachments/assets/a50c7cb5-9f04-4b2a-bef1-ae73bc235aea" />
 
 # References/Sources:
-https://www.theguardian.com/us-news/article/2024/jul/18/south-los-angeles-gun-violence-children
-https://www.ppic.org/publication/crime-trends-in-california/
-https://arxiv.org/abs/2204.04399
-https://pinkerton.com/our-insights/blog/crime-in-the-post-covid-19-era
-https://repository.rit.edu/theses/12161/
-https://lacrimetrends.humspace.ucla.edu/socioeconomic-dive-into-two-extremes/
-https://storymaps.arcgis.com/stories/c58dfc8c6263467a803f2515a97982c8
-https://www.steinandmarkuslaw.com/blog/2021/august/which-neighborhoods-in-los-angeles-have-the-high/
+https://www.theguardian.com/us-news/article/2024/jul/18/south-los-angeles-gun-violence-children /
+https://www.ppic.org/publication/crime-trends-in-california/ /
+https://arxiv.org/abs/2204.04399 /
+https://pinkerton.com/our-insights/blog/crime-in-the-post-covid-19-era /
+https://repository.rit.edu/theses/12161/ /
+https://lacrimetrends.humspace.ucla.edu/socioeconomic-dive-into-two-extremes/ /
+https://storymaps.arcgis.com/stories/c58dfc8c6263467a803f2515a97982c8 /
+https://www.steinandmarkuslaw.com/blog/2021/august/which-neighborhoods-in-los-angeles-have-the-high/ /
 
