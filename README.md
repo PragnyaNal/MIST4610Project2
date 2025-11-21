@@ -66,6 +66,7 @@ Analyze and visualize the results of your analysis and describe the implications
 Please provide any citations if required as well as supporting visualizations and analysis generated from Tableau.   
 Question 1: How have overall crime patterns changed across Los Angeles neighborhoods from 2020 to 2024, and which areas have seen the most significant decreases in reported crime?  
 <img width="2400" height="1841" alt="image" src="https://github.com/user-attachments/assets/b7cc8f3f-cea5-4c5c-9582-3acbb27927bd" />
+<img width="556" height="327" alt="image" src="https://github.com/user-attachments/assets/1e0781aa-d6a4-4e54-8523-cc62c84881cd" />
 <img width="2400" height="1688" alt="image" src="https://github.com/user-attachments/assets/bfd5660a-b175-4d65-90b4-0d66d6d473f1" />
 Crime was relatively low in 2020 and according to Pinkerton because of Covid lockdowns there was a sharp decrease in property and street crimes in 2020 due to reduced mobility and social interaction and after lockdowns ended in 2022 crime rates started to rise.  
 The types of crime show that stolen vehicles and identity theft, burglary from a vehicle, and simple assualt are the most common.   
